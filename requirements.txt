@@ -1,0 +1,9 @@
+anthropic
+chromadb
+sentence-transformers
+requests
+httpx
+python-dotenv
+apscheduler
+python-telegram-bot
+beautifulsoup4

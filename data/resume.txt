@@ -1,0 +1,58 @@
+Amit Ranjan
+amitranjan.hello@gmail.com | +91-6294335840 | Bengaluru, India
+
+EXPERIENCE
+
+IBM SOFTWARE LABS | Python AI/ML Engineer
+Oct 2024 - Present | Bengaluru, India
+- Architected SmartDebug, an autonomous agentic workflow using LangGraph and ReAct patterns for intelligent GitHub issue resolution through historical context matching. Implemented Hybrid Search combining BM25 sparse retrieval with dense vector embeddings (sentence-transformers), followed by Cross-Encoder ranking using ms-marco-MiniLM-L-6-v2 for improved relevance scoring
+- Architected Sales Intelligence Agent using FastAPI microservices with Python Asyncio for concurrent data orchestration. Integrated Model Context Protocol (MCP) to standardize context ingestion from LinkedIn APIs and internal databases, decoupling LLM reasoning from data fetching operations
+- Built Financial Allocation Agent with WatsonX Orchestrate featuring multi-step reasoning loops, dynamic tool selection, and automated decision routing for complex approval workflows
+- Developed RAG pipelines using granite-13b-instruct-v2 and OpenSearch vector store, implementing semantic caching with Redis (cosine similarity-based) and Cross-Encoder re-ranking to optimize token usage and retrieval quality
+- Enhanced WatsonX Code Assistant (WCA) for IBM Z mainframe modernization, building AI-powered code translation features in IntelliJ and VS Code extensions with few-shot prompt engineering for COBOL-to-Java migration scenarios
+- Contributed to Ansible Core (Open Source): optimized Python interpreter discovery for z/OS environments and implemented EBCDIC/ASCII encoding bridge for mainframe automation compatibility
+- Enhanced Ansible CLI tools and pytest-ansible by engineering Python-based E-flag implementation enabling dynamic environment variable injection at playbook runtime
+
+TCS DIGITAL | Software Developer
+Aug 2021 - Sep 2024 | Bengaluru, India
+- Implemented post-quantum cryptography (PQC) migration strategy for financial microservices, developing quantum-resistant protocols using NIST-approved algorithms (Kyber for key encapsulation, Dilithium for digital signatures) via libpqs library
+- Implemented quantum-safe TLS 1.3 tunnels using stunnel with OpenSSL 3.x, integrating Bouncy Castle FIPS provider for hybrid classical-quantum cryptographic schemes while maintaining backward compatibility
+- Developed Python automation framework for Stunnel Docker container orchestration, managing secure inter-container TLS termination and certificate rotation within Kubernetes pod networks
+- Built ML-driven risk classification using scikit-learn with ensemble methods (Random Forest + Gradient Boosting) and pandas for feature engineering across security and compliance dimensions
+- Automated PKI certificate lifecycle management using Python and Ansible playbooks integrated with EJBCA
+- Deployed PKI infrastructure on GKE using Terraform for infrastructure-as-code and Helm for application packaging
+- Built CI/CD pipelines using Jenkins with Python and Shell scripting
+- Orchestrated zero-downtime deployments using blue-green deployment patterns and Kubernetes rolling updates with health check configurations
+
+EDUCATION
+B.Tech in Electrical Engineering
+Haldia Institute of Technology
+Jun 2017 - Jul 2021 | West Bengal, India
+CGPA: 8.89 / 10.0
+
+SKILLS
+
+GenAI & LLMs:
+Agentic AI: LangChain, LangGraph, ReAct, ReAct, Reflexion, WatsonX Orchestrate
+RAG & Retrieval: OpenSearch, ChromaDB, Hybrid Search (BM25 + Dense), Cross-Encoder Re-ranking, Semantic Chunking
+Models: granite-13b-instruct, granite-20b-code, LLaMA-2, GPT-4, Mistral
+Embeddings: sentence-transformers, all-MiniLM-L6-v2, ms-marco-MiniLM-L-6-v2
+Tools: MCP, PyTorch, HuggingFace, LangSmith, RAGAS
+
+Backend Engineering:
+Languages: Python, SQL, Bash, C++
+Frameworks: FastAPI, Django, Flask, Pydantic
+Core: Asyncio, Concurrency, Pytest, REST APIs
+
+MLOps & Cloud:
+Containers: Docker, Kubernetes
+OpenShift, GKE, Terraform, Ansible
+CI/CD: Jenkins, Tekton, GitOps
+Databases: PostgreSQL, MongoDB, Redis, OpenSearch, DB2, IMS
+
+AWARDS
+IBM Labs Star of the Month 2025
+IBMer WatsonX Challenge - Red Hat Community Recognition
+IBM Xlence Advocate
+HackerRank 5-Star Python
+TCS Gems Awards

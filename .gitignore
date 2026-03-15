@@ -1,0 +1,14 @@
+venv/
+.env
+__pycache__/
+*.pyc
+data/chroma_db/
+*.db
+venv/
+.env
+__pycache__/
+*.pyc
+*.db
+data/chroma_db/
+data/reports/
+*.db-journal
